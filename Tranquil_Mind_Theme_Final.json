@@ -1,0 +1,117 @@
+{
+    "name": "Tranquil Mind",
+    "dataColors": [
+        "#2E7C8A",
+        "#88C9BF",
+        "#FF9F1C",
+        "#4F5D75",
+        "#1E1E1E",
+        "#FFFFFF"
+    ],
+    "background": "#2E7C8A",
+    "foreground": "#1E1E1E",
+    "tableAccent": "#88C9BF",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "color": [
+                    {
+                        "solid": {
+                            "color": "#1E1E1E"
+                        }
+                    }
+                ],
+                "fontFamily": [
+                    {
+                        "value": "Segoe UI"
+                    }
+                ],
+                "fontSize": [
+                    {
+                        "value": 12
+                    }
+                ]
+            },
+            "titleText": {
+                "color": [
+                    {
+                        "solid": {
+                            "color": "#1E1E1E"
+                        }
+                    }
+                ],
+                "fontSize": [
+                    {
+                        "value": 14
+                    }
+                ],
+                "fontFamily": [
+                    {
+                        "value": "Segoe UI Semibold"
+                    }
+                ]
+            },
+            "labelText": {
+                "color": [
+                    {
+                        "solid": {
+                            "color": "#4F5D75"
+                        }
+                    }
+                ],
+                "fontSize": [
+                    {
+                        "value": 12
+                    }
+                ],
+                "fontFamily": [
+                    {
+                        "value": "Segoe UI"
+                    }
+                ]
+            },
+            "header": {
+                "fontColor": [
+                    {
+                        "solid": {
+                            "color": "#FFFFFF"
+                        }
+                    }
+                ],
+                "backColor": [
+                    {
+                        "solid": {
+                            "color": "#2E7C8A"
+                        }
+                    }
+                ],
+                "fontSize": [
+                    {
+                        "value": 12
+                    }
+                ],
+                "fontFamily": [
+                    {
+                        "value": "Segoe UI Semibold"
+                    }
+                ]
+            },
+            "card": {
+                "fontColor": [
+                    {
+                        "solid": {
+                            "color": "#1E1E1E"
+                        }
+                    }
+                ],
+                "backColor": [
+                    {
+                        "solid": {
+                            "color": "#FFFFFF"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
